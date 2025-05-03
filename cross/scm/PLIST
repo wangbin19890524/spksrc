@@ -1,0 +1,3 @@
+rsc:first-install.sh
+bin:usr/local/bin/scmset
+bin:usr/local/bin/scmupdate
